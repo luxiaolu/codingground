@@ -1,0 +1,80 @@
+body {
+    font-family: "DejaVu Sans", "Bitstream Vera Sans", "Lucida Sans", "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+    text-align: left;
+}
+
+h4 {
+    font-size: 1.1em;
+    padding-left: .5em;
+    border-left: 8px solid #8080c0;
+    border-bottom: 2px solid #8080c0;
+}
+
+#container {
+    margin: 0 auto;
+    width: 1000px;
+    }
+
+.name, .item {
+    margin-bottom: 0;
+}
+
+.name{
+    text-align:center;
+}
+
+hr {
+    margin-top: 0;
+}
+
+.td_master {
+    font-weight: bold;
+}
+
+table {
+    width: 60%;
+}
+
+.first_column {
+    width: 160;
+}
+.second_column {
+    width: 200;
+}
+.third_column {
+    width: 200;
+}
+
+.sub_item {
+    font-weight: bold;
+    margin-bottom: 15pt;
+    padding-left: .5em;
+    border-left: 4px solid #8080c0;
+    border-bottom: 1px solid #8080c0;
+
+    position:relative;
+    left:-15px;
+}
+
+li {
+    list-style-image:url("eg_arrow.gif");
+}
+
+.main_list {
+    list-style-type: none;
+    list-style-image: none;
+}
+
+p.content {
+    margin-top: 0.4em;
+    margin-bottom: 0.4em;
+}
+
+.blod {
+    font-weight: bold;
+}
+
+.content{
+    font-size: 0.92em;
+}
+
